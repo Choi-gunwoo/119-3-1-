@@ -1,0 +1,10 @@
+Store Name : ±è¹äÃµ±¹	Y_M : 2019Y_11M	Profit : 275¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2019Y_12M	Profit : 238¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_1M	Profit : 242¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_2M	Profit : 254¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_3M	Profit : 265¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_4M	Profit : 280¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_6M	Profit : 70¸¸¿ø
+Store Name : ±é¹äÃµ±¹	Y_M : 2020Y_7M	Profit : 128¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_8M	Profit : 280¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_9M	Profit : 336¸¸¿ø

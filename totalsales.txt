@@ -1,0 +1,11 @@
+Store Name : ±è¹äÃµ±¹	Y_M : 2019Y_11M	TotalSales : 1075¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2019Y_12M	TotalSales : 1138¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_1M	TotalSales : 1042¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_2M	TotalSales : 1054¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_3M	TotalSales : 1065¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_4M	TotalSales : 1089¸¸¿ø
+
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_6M	TotalSales : 100¸¸¿ø
+Store Name : ±é¹äÃµ±¹	Y_M : 2020Y_7M	TotalSales : 140¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_8M	TotalSales : 310¸¸¿ø
+Store Name : ±è¹äÃµ±¹	Y_M : 2020Y_9M	TotalSales : 1136¸¸¿ø
